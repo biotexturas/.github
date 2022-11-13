@@ -1,8 +1,8 @@
-Biotexturas is a collective of people working on
+<a href="https://biotexturas.org">Biotexturas</a> is a collective of people working on
 DIY Biology, decentralized science (DeSci),
  & open science hardware (OSH). 
 
-https://biotexturas.org
+
 <!--
 
 **Here are some ideas to get you started:**
