@@ -1,5 +1,6 @@
-Biotexturas is a collective working on
-DIY Biology, DeSci, & OSH. 
+Biotexturas is a collective of people working on
+DIY Biology, decentralized science (DeSci),
+ & open science hardware (OSH). 
 
 https://biotexturas.org
 <!--
